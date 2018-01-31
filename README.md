@@ -26,3 +26,6 @@ Note: These are private repositories. So if you are greeted with anything other 
 
 ## Steering Wheel
 [QUTMS_SteeringWheel](https://github.com/Technosasquach/QUTMS_SteeringWheel "QUTMS_SteeringWheel")
+
+## Windows Configuration Software
+[QUTMS_Windows](https://github.com/Technosasquach/QUTMS_Windows "QUTMS_Windows")
