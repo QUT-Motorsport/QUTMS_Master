@@ -6,7 +6,7 @@ The purpose of this repository is for onboarding new members, serving as a landi
 
 There is nothing in the wiki yet...
 
-# Systems
+# Systems ![Party_Parrot](src/party_parrot.gif)
 
 The car is split into many different electrical system. Each system has its code and thus its own repository.
 
