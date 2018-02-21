@@ -28,6 +28,8 @@ Note: These are private repositories. So if you are greeted with anything other 
 [QUTMS_SteeringWheel](https://github.com/Technosasquach/QUTMS_SteeringWheel "QUTMS_SteeringWheel")
 
 ## Windows Configuration Software
+[Recommended Research!](https://github.com/Technosasquach/QUTMS_Master/blob/master/RecommendedResearch.md)
+
 [QUTMS_ConfigurationSoftware](https://github.com/Technosasquach/QUTMS_ConfigurationSoftware "QUTMS_ConfigurationSoftware")
 
 The following version is an old version before the newer re-write.
