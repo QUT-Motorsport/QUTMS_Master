@@ -101,7 +101,7 @@ Whats listed here is the relevant subsection of what is standard in the industry
         * https://www.tutorialspoint.com/webrtc/index.htm
 
 ### Documentation/Quality
-In any project, its very important to have documentation expecialy if you are working in a team. Knowing how to write to the standard documentation is critical.
+In any project, its very important to have documentation especially if you are working in a team. Knowing how to write to the standard documentation is critical.
 * JSDocs
     * A complex syntax that allows all functions, values and classes to be labeled and documented within the code. A tool can then be used to scan the code and generate complete documentation. Using code to document code, what could be more awesome!
     * http://usejsdoc.org/
@@ -194,7 +194,7 @@ The following will take the web from being multipage sites to multipage applicat
     * https://nwjs.io/
 
 ### Enviroment/Editors
-Editors are very much the preference of the person using it. If you like something, then you have no reason to justify it to others. Having said that, knowing and making the right choice in the beginning can significantly increase efficency.
+Editors are very much the preference of the person using it. If you like something, then you have no reason to justify it to others. Having said that, knowing and making the right choice in the beginning can significantly increase efficiency.
 * Visual Studio Code (Editor)
     * My **personal favorite**, use it for **everything**.
     * https://code.visualstudio.com/
@@ -205,7 +205,7 @@ Editors are very much the preference of the person using it. If you like somethi
     * Ultra high quality IDE, built on the Industry Leading IntelliJ editor, specificly for web technologies. Very heavy weight, and handles **alot** of things for you. Though not as configurable
     * https://www.jetbrains.com/webstorm/
 * Sublime Text 3 (Editor)
-    * Textedit/Nodepad on steroids. Ultra ultra lightweight, handles everything, has an emense amount of features hidden just under the surface. Still use it over VSCode for **alot** of things.
+    * Textedit/Nodepad on steroids. Ultra ultra lightweight, handles everything, has an immense amount of features hidden just under the surface. Still use it over VSCode for **alot** of things.
     * https://www.sublimetext.com/
 * Notepad++ (Hardcore Editor/IDE)
     * If your using this, you have a problem and should be seen by a doctor. Go use sublime at least!
@@ -220,7 +220,7 @@ Editors are very much the preference of the person using it. If you like somethi
 # Extra Stuff
 
 ### Awesome Lists
-Go have a serious look at these. Just browse at your own pase, there is a lot in there. Have a look at what ive talked about so far. You are going to find some really awesome things! No pun intended.
+Go have a serious look at these. Just browse at your own pace, there is a lot in there. Have a look at what ive talked about so far. You are going to find some really awesome things! No pun intended.
 
     https://github.com/sindresorhus/awesome
 
